@@ -1,0 +1,22 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   GroupMessenger.java
+
+import java.util.List;
+import java.util.Vector;
+
+public class GroupMessenger
+{
+
+    public GroupMessenger()
+    {
+    }
+
+    public void trimiteMesaj(String s, String s1, String s2)
+    {
+    }
+
+    public List participanti;
+    public Vector myUtilizator;
+}

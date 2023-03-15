@@ -1,0 +1,33 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   Admin.java
+
+import java.util.List;
+import java.util.Vector;
+
+public class Admin extends Persoana
+{
+
+    public Admin()
+    {
+    }
+
+    public void stergeUtilizator(Utilizator utilizator)
+    {
+    }
+
+    public List afiseazaUtilizatorii()
+    {
+        return null;
+    }
+
+    public String afiseazaPreferinte(Utilizator utilizator)
+    {
+        return null;
+    }
+
+    public List prietenii;
+    public Integer newAttr;
+    public Vector myUtilizator;
+}

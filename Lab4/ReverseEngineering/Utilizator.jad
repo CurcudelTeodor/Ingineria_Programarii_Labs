@@ -1,0 +1,67 @@
+// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.kpdus.com/jad.html
+// Decompiler options: packimports(3) 
+// Source File Name:   Utilizator.java
+
+import java.util.List;
+import java.util.Vector;
+
+public class Utilizator extends Persoana
+{
+
+    public Utilizator()
+    {
+    }
+
+    public void creeazaCont(String s, String s1)
+    {
+    }
+
+    public Utilizator cautaUtilizator(String s, String s1)
+    {
+        return null;
+    }
+
+    public void trimiteCerere(String s, String s1)
+    {
+    }
+
+    public void acceptaCerere(String s, String s1)
+    {
+    }
+
+    public String trimiteMesaj(String s, String s1, String s2)
+    {
+        return null;
+    }
+
+    public void publicaPostare(String s)
+    {
+    }
+
+    public void reactPostare(String s)
+    {
+    }
+
+    public void commentPostare(String s)
+    {
+    }
+
+    public Pagina creeazaPagina(Pagina pagina)
+    {
+        return null;
+    }
+
+    public void apreciazaPagina(Pagina pagina)
+    {
+    }
+
+    public String nume;
+    public String prenume;
+    public String dataNastere;
+    public List prieteni;
+    public Vector myAdmin;
+    public Vector myPagina;
+    public Vector myGroupMessenger;
+    public Vector myParserMesaj;
+}
