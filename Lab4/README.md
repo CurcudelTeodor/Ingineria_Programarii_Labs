@@ -1,4 +1,4 @@
-### Echipa este formata din:\
+### Echipa este formata din:
 Barbulescu Robert\
 Cohman Teodora\
 Curcudel Teodor\
